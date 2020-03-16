@@ -104,8 +104,8 @@ network). For that purpose:
     remotly to your Raspberry Pi!
 
 
-Python packages installation
-============================
+Python packages installing
+==========================
 
 Installing the right Python packages in a Raspberry Pi processor 
 architecture (ARM) can be quite
