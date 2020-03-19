@@ -11,3 +11,10 @@ text detector meanwhile the second one is a
 convolutional neural network trained on the MNIST dataset.
 EAST is capable of (1) running at near real-time at 13 FPS on 720p images and (2) 
 obtains state-of-the-art text detection accuracy.
+
+To run the application, you just need to connect a webcam to your computer 
+and execute on your console:
+
+```console
+$ python3 real_time_digits.py
+```

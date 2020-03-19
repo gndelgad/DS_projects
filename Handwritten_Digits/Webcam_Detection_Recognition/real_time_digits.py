@@ -1,5 +1,3 @@
-from matplotlib import pyplot as plt
-from matplotlib import image
 import numpy as np
 import skimage as ski
 import cv2
